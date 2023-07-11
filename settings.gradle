@@ -6,3 +6,5 @@
  */
 
 rootProject.name = 'practice2'
+include 'src'
+
